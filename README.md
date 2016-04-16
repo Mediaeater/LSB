@@ -1,6 +1,3 @@
-# live (test)
+# live stream bot LSB
 
-This is a test <Br>
-  
-<br>
-  <a href="http://mediaeater.com">mediaeater </a>
+ 
